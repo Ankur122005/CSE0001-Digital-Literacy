@@ -32,7 +32,7 @@ Demonstrated technical proficiency and collaborative skills through coding chall
 
 ### [Task 4: Professional Communication](./task-4-email-etiquette/)
 Applied formal email etiquette for academic and professional scenarios.
-* **Contents:** Extension request to Professor Reena Jain and an internship inquiry for NVIDIA.
+* **Contents:** Extension request to Professor Kiran Kumar Behra and an internship inquiry for NVIDIA.
 * **Resource:** Social Media "Do's and Don'ts" Checklist.
 
 ### [Task 5: Cybercrime Awareness](./task-5-cybercrime/)
