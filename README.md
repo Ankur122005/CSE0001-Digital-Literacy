@@ -26,7 +26,7 @@ Established a professional presence across major platforms to prepare for future
 
 ### [Task 3: Coding & Collaboration](./task-3-platforms/)
 Demonstrated technical proficiency and collaborative skills through coding challenges and data collection.
-* **Coding Practice:** Completed beginner Python challenges on **HackerRank**.
+* **Coding Practice:** Completed beginner JAVA challenges on **HackerRank**.
 * **Collaboration Tool:** Created a 5-question Digital Literacy Quiz using **Google Forms**.
 * **Quiz Link:**  https://forms.gle/j961pGeVFjuoff7x9
 
